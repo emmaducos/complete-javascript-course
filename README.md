@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/jonasschmedtmann/complete-javascript-course)
+
 # Course Material and FAQ for my Complete JavaScript Course
 
 This repo contains starter files and the finished project files for all the projects contained in the course.
